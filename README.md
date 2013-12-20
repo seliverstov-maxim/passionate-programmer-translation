@@ -4,7 +4,9 @@ passionate-programmer-translation
 Краудсорсим перевод The Passionate Programmer от Chad Fowler
 
 Текущие планы по переводам:
+
 Flar - Глава 11.
+
 WarAngel_alk - Глава 13.
 
 Текущее содержание переводов на хабре (в исходниках Readme пригодный к вставке на хабр спойлер):
