@@ -3,10 +3,9 @@ passionate-programmer-translation
 
 Краудсорсим перевод The Passionate Programmer от Chad Fowler
 
-Здесь есть легальный оригинал книги:
-http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
-
-Нелегальную PDF-ку с оригиналом можно скачать в сети.
+Текущие планы по переводам:
+Flar - Глава 11.
+WarAngel_alk - Глава 13.
 
 Текущее содержание переводов на хабре (в исходниках Readme пригодный к вставке на хабр спойлер):
 
@@ -31,3 +30,7 @@ http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/193435
   </ul>
 </spoiler>
 
+Здесь есть легальный оригинал книги:
+http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344
+
+Нелегальную PDF-ку с оригиналом можно скачать в сети.
