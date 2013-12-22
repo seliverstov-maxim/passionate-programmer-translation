@@ -28,7 +28,8 @@ JohnTrevor - Глава 17.
     <li>Глава 7. Будь универсалом (В черновиках)</li>
     <li><a href="http://habrahabr.ru/post/205980/">Глава 8. Будь специалистом</a></li>
     <li><a href="http://habrahabr.ru/post/192876/">Глава 9. Не кладите все свои яйца в чужую корзину</a></li>
-    <li>Глава 10. Полюби это или брось (В черновиках)</li>
+    <li><a href="http://habrahabr.ru/post/206198/">Глава 10. Полюби это или брось</a></li>
+    <li><a href="http://habrahabr.ru/post/206978/">Глава 11. Научись рыбачить.</a></li>
     <li><a href="http://habrahabr.ru/post/206682/">Глава 12. Изучите, как работает бизнес на самом деле</a></li>
     <li><a href="http://habrahabr.ru/post/189650/">Глава 31. Не паникуй</a></li>
   </ul>
