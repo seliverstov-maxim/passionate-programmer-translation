@@ -26,6 +26,7 @@ passionate-programmer-translation
     <li><a href="http://habrahabr.ru/post/206198/">Глава 10. Полюби это или брось</a></li>
     <li><a href="http://habrahabr.ru/post/206978/">Глава 11. Научись рыбачить.</a></li>
     <li><a href="http://habrahabr.ru/post/206682/">Глава 12. Изучите, как работает бизнес на самом деле</a></li>
+    <li><a href="http://habrahabr.ru/post/206968/">Глава 13. Найди ментора</a></li>
     <li><a href="http://habrahabr.ru/post/189650/">Глава 31. Не паникуй</a></li>
   </ul>
 </spoiler>
