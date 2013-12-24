@@ -1,81 +1,76 @@
-#### 16. The Way That You Do It
+#### 16. Как вы это делаете?
 
-“Developing software” is not a thing, a noun. Instead, “developing
-software” is a _verb phrase_; it’s the _process_ of creating a thing. When we’re
-coding away, it’s as important to focus on the process we’re using as
-it is to focus on the product being developed. Take your eye off the
-process, and you risk delivering late, delivering the wrong product, or
-not delivering at all. These outcomes tend to be frowned on by our
-customers.
+"Разрабатывать программное обеспечение" - это не просто какое-то абстрактное
+выражение, эта фраза заключает в себе _действие_. _Это процесс создания_ 
+какого-либо объекта. Когда мы пишем код важно думать не только о конечном 
+результате, но и о процессе его достижения. Если отвлечься от процесса, то 
+сразу возникает риск провалить срок, сделать что-то не то или вообще ничего 
+не сделать. Такие результаты сильно растроят наших клиентов.
 
-Fortunately, a lot of thought has been put into the process of making
-good software (and products in general). Much of this prior art has
-been codified into a group of _methodologies_. These methodologies are
-the subject of numerous books that can be found online or in your local
-bookstore.
+К счастью, много мыслей было изложено о том, как сделать хороший программный 
+продукт (да и любую другую продукцию вообще). Большинство из них превратилось 
+в _методологии_, которые являются темами множества различных книг на просторах 
+интернета, либо из вашей домашней коллекции.
 
-Unfortunately, most developers don’t get to benefit from all this good
-information. For the majority of teams, the process is an afterthought
-or something imposed from above. The word _methodology_ has, in their
-minds, become synonymous with paperwork and long, meaningless
-meetings. All too often, a methodology is something that their managers impose.
+Но, к несчастью, большинство разработчиков не получают ничего от них. Для 
+большинства команд обдумывание самого процесса - это нечто навязанное или то, 
+что можно обдумывать потом. Слово _методология_ в их головах ассоциируется с 
+утомительной бумажной работой и бесконечно длинными бестолковыми встречами и 
+обсуждениями. Зачастую, методология навязывается их менеджерами.
 
-Managers intuitively know that they need to follow _some kind_ of process,
-but they often don’t know about the options that are now available.
-As a result, they dust off the same processes that were imposed
-on them in the 1980s, wrap them up in buzzword-compliant ribbons
-(the pastel-colored Agile ribbon is a good choice at the moment), and
-pass the practices on to their teams. And unless someone breaks the
-cycle by actually doing research on what works and what doesn’t, the
-same process will happen again as the developers on the team become
-managers themselves.
+Однако управленцы интуитивно понимают, что разработка должна подчиняться 
+_каким-либо_ правилами разработки, но не знают, что конкретно должно быть 
+использовано для этой цели. В результате они применяют правила и подоходы к 
+разработке 1980-х годов, облекая их различными модными названиями (Agile в 
+		пастельных тонах - это отличный вариант на сегодняшний день) и запуская 
+их в своих командах. Это происходит до тех пор, пока кто-нибудь не прервёт 
+этот цикл, сделав анализ того, что на самом деле работает, а что - нет. А тем 
+временем этот процесс будет повторяться снова, когда участники этой команды 
+со временем станут менеджерами.
 
-You’d think that there must be a better way to develop software. And
-for most teams there is.
+Тут можно подумать, что сущесвуют гораздо более эффективные подходы к 
+разработке. И это будет справедливо для большинства команд.
 
-If you’re a programmer, tester, or software designer, you may not think
-the development process is your responsibility. As far as your company
-is concerned, you’re probably right. Unfortunately, it’s usually _nobody’s_
-responsibility. If it does get assigned to someone, it might fall into the
-hole of a “process group” or some other similarly disconnected organization.
-The truth is that for a software process to have any chance of
-being implemented successfully, it has to be embraced by the people
-who are using the process — people like you.
+Если вы программист, тестировщик или архитектор, то вы можете думать, что 
+процесс разработки к вам не относится. Возможно это так в вашей компании. К 
+сожалению, в большинстве случаев никто не несёт за это ответственность. Если 
+же сделать человека, который начинает заниматься контролем процесса разработки, 
+то чаще всего это превращается в брешь в группе разработки или какую-то 
+отдельно стоящую группу. Правда же заключается в том, что для мало-мальски 
+успешного применения методологии в неё должны быть вовлечены те люди, которые 
+используют этот процесс. А это как раз такие люди, как вы.
 
-The best way to feel ownership of these processes is to help implement
-them. If your organization has no process, research methodologies that
-might work for you. Have brown-bag lunches with your team to discuss
-current development problems and ways that adopting a standard
-process might mitigate them. Put together a plan for rolling the chosen
-process into your organization, and get everyone’s buy-in. Then start
-to implement your plan.
+Лучший способ почувствовать этот процесс - это принять в нём участие. Если в 
+вашей организации нет его, то исследуйте различные методологии, которые могли 
+быть вам полезны. Устраивайте обеды с вашей команды, обсуждая текущие проблемы 
+разработки и пути, как их можно исключить, используя стандартные подходы к 
+разработке. Составьте совместный план как внедрить выбранный подход в вашу 
+команду, и чтобы каждый участник вносил в неё свой вклад. А потом просто начните
+претворять ваш план в жизнь.
 
-> **If you want to feel you own a process, help implement it.**
+> **Если хотите почувствовать процесс, помогите его применить.**
 
-Alternatively, you might work in an environment where a process is passed down
-from on high. By the time the tablets arrive
-at the development team, the practices
-have often been watered down and reinterpreted to the point where they’re
-unrecognizable from the originals.
-The process has suffered the same fate as the secret phrase in a game of
-[Chinese Whispers](http://en.wikipedia.org/wiki/Chinese_whispers).
-Again, this is an opportunity to take the initiative.
-Research the methodology you’ve been given, and help interpret what
-it really means, both to your team and to your management. You’re not
-going to be able to fight that a process has been imposed, so you may
-as well make it work by doing it right.
+С другой стороны, возможно вы работаете в условиях, когда процесс разработки 
+управляется сверху-вниз. Зачастую, к тому времени, как идеи дойдут непосредственно 
+до разработчиков, они претерпевают массу изменений и могут стать совершенно 
+отличными от первоначальных. Этот процесс страдает теми же недостатками, что и 
+секретная фраза в игре [Chinese Whispers](http://en.wikipedia.org/wiki/Chinese_whispers). Однако, это и возможность взять инициативу в свои руки.
+Исследуйте методологию, которую вы решили применить и помогите понять, что она 
+на самом деле значит для разработчиков и для менеджмента. Не нужно бороться 
+с этим навязанным процессом, можно применить его, правильно используя его.
 
-The methodology world can quickly begin to sound like a hollow shell
-of buzzwords. But, as buzzword compliant as some may be, you can
-always learn _something_ from the study of a software process — even if
-that something is what not to do. If you’re well versed in the software
-process landscape, you can make a more credible argument for how
-your team should be working.
+Мир методологий также может показаться пустой обёрткой из умных слов. Несмотря 
+на то, что они могут быть не до конца понятны, всегда можно почерпнуть _что-то_ 
+новое в процессе изучения новой методологии разработки - даже если это то, что 
+не нужно делать. Если же вы комфортно чувствуете себя в данном вопросе, то и ваши
+аргументы будут более весомыми в спорах о том, какой подход к разработке нужно
+использовать.
 
-Even with the abundance of prescriptive methodologies to choose
-from, it’s not likely you will ever work for a company that fully implements
-any of them. That’s OK. The best process to follow is the one that
-makes your team most productive and results in the best products.
+Бывает существует огромное множество методологий разработки, которые могут быть
+использованы, но это не означает, что вам придётся работать в компании, которая 
+полностью используют одну из них. Это нормально, так как лучший подход - это 
+применение того подхода, который обеспечит наибольшую продуктивность команды на 
+данном этапе и наилучшее качество продукта.
 
 ----
 
