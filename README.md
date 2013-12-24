@@ -33,6 +33,7 @@ Flar: правка и публикация 7ой и 17ой глав.
     <li><a href="http://habrahabr.ru/post/206978/">Глава 11. Научись рыбачить.</a></li>
     <li><a href="http://habrahabr.ru/post/206682/">Глава 12. Изучите, как работает бизнес на самом деле</a></li>
     <li><a href="http://habrahabr.ru/post/206968/">Глава 13. Найди ментора</a></li>
+    <li><a href="http://habrahabr.ru/post/207188/">Глава 14. Будь ментором</a></li>
     <li><a href="http://habrahabr.ru/post/207098/">Глава 15. Практика, практика, практика</a></li>
     <li><a href="http://habrahabr.ru/post/189650/">Глава 31. Не паникуй</a></li>
   </ul>
