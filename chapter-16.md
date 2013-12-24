@@ -74,42 +74,37 @@ _каким-либо_ правилами разработки, но не зна�
 
 ----
 
-##### Methodologies: Not Just for Geeks
+##### Методологии: не только для гиков
 
-Though project management is not necessarily bound
-to software development methodology, you may find
-yourself running face first into your company’s project
-management techniques. Numerous project manage-
-ment methodologies are in use throughout the industry.
-Probably most notable is the Project Management Institute’s
-[Project Management Book of Knowledge](http://www.pmi.org/),
-(with its widely recognized certification program).
-[Six Sigma](http://www.isixsigma.com/) is another non-software-specific quality
-methodology. Driven by companies such as General
-Electric and Motorola, the Six Sigma approach emphasizes
-the measurement and analysis of processes and
-products to drive customer satisfaction and efficiency.
-Although not specific to software development, Six
-Sigma’s rigorous and methodical approach offers many
-lessons that are directly applicable to your job as a programmer.
+Так как управление проектом не всегда обязательно связано с методологией разработки
+программного обеспечения, то вы можете оказаться первым в вашей компании, кто занялся
+решением этой задачи. Множество методологий управления проектами уже используются в 
+различных компаниях. Возможно самым значимым является подход, разработанный Институтом 
+Управления Проектами - [Project Management Book of Knowledge](http://www.pmi.org/),(вместе с их 
+признанной системой сертификации). Ещё один пример общей методологии, касающейся не 
+только разработки программного обеспечения - [Six Sigma](http://www.issixsigma.com/). Используемый такими 
+компаниями, как General Electric и Motorola, подход Six Sigma выделяет оценку и 
+анализ процессов и продуктов для обеспечения удовлетворённости клиентов и
+эффективности. Хотя их решение разработано и не специально для направления разработки
+программного обеспечения, но его строгость и методичность даёт множество уроков,
+которые напрямую применимы в работе программиста.
 
 ----
 
-The only way to find that hybrid (short of revelationary epiphany) is to
-study the available options, pick out the pieces that make sense to you
-and your team, and continuously refine them based on real experience.
-Ultimately, if you can’t do the process, you can’t do the product. It’s
-much easier to find someone who can make software work than it is to
-find someone who can make the _making of_ software work. So, adding
-knowledge of the software development process to your arsenal can
-only help you.
+Единственный путь к формированию вашей гибридной методологии (???) - это изучение 
+всевозможных подходов, вычленение нужных кусочков, которые имеют отношение к вам и
+вашей команде, и последующее постепенное выстраивание новой техники на основе 
+полученного опыта. В конце концов, если невозможно наладить процесс, то невозможно 
+создать продукт. Намного проще найти того, кто может заставить программу работать,
+чем того, кто может заставить процесс создания программ работать. Таким образом,
+добавление знаний процесса разработки программного обеспечения в ваш арсенал 
+может быть очень полезным.
 
-##### Act on It!
+##### Действуйте!
 
-1. Pick a software development methodology, and pick up a book,
-start reading websites, and join a mailing list. Look at the methodology
-with a critical eye. What do you think would be its strong and
-weak points? What would be the barriers to implementing it where
-you work? Next, do the same with another. Contrast their strengths
-and weaknesses. How could you combine their approaches?
-
+1. Выберите себе методологию разрабтки програмнного обеспечения, найдите книгу.
+начните читать информацию о ней в интернете, подключитесь к почтовой рассылке по
+этому вопросу. Оцените эту методологию критически. Какие у неё сильные и слабые
+стороны? Что может помешать применить её там, где вы работаете? Потом сделайте
+такой же анализ следующей методологии. Сравните их. Можно ли их скомбинировать 
+так, чтобы уменьшить их слабые стороны и сделать их более выигрышными?
