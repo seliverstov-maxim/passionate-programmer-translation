@@ -7,7 +7,6 @@ passionate-programmer-translation
 
 **Планы:**
 
-WarAngel-alk: перевод 19й главы.
 stelmakh: Перевод истории после 18 главы. Перевод 21 главы.
 
 **Требуется:**
