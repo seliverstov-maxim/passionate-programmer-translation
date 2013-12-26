@@ -1,5 +1,5 @@
 Глава 20. Телепат
-=================
+-----------------
 Я работал с парнем по имени Рао. Рао родом из южного штата Индии Andhra Pradesh, 
 но он жил в США и работал вместе с нами. Рао мог написать любой код, о чем бы 
 вы его ни попросили. Если вам было нужно низкоуровневое системное 
@@ -85,10 +85,13 @@
    ваши функции были внедрены, была у вас возможность использовать эти идеи при 
    мозговом штурме?<sub>[4]</sub>
 
-[1] I would say, "Rao, I've been thinking about changing the way we're 
-encapsulating the controller on our application framework"
-[2] At the time, I was leading my company's application architecture team.
-[3] Avoid mind-reading work that may force the system down a particular 
-architectural path or limit what the system can do in some way.
-[4] When your guessed features <i>did</i> come up, were you able to use the ideas 
-you came up with in your brainstroming sessions?
+ [1] I would say, "Rao, I've been thinking about changing the way we're 
+ encapsulating the controller on our application framework"
+ 
+ [2] At the time, I was leading my company's application architecture team.
+ 
+ [3] Avoid mind-reading work that may force the system down a particular 
+ architectural path or limit what the system can do in some way.
+ 
+ [4] When your guessed features <i>did</i> come up, were you able to use the ideas 
+ you came up with in your brainstroming sessions?
