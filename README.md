@@ -8,8 +8,13 @@ passionate-programmer-translation
 **Планы:**
 
 Flar: правка и публикация 7ой 16ой и 17ой глав.
+<<<<<<< HEAD
 
 stelmakh: Вычитка и публикация 18 главы.
+=======
+WarAngel-alk: перевод 19й главы.
+stelmakh: Перевод истории после 18 главы. Перевод 21 главы.
+>>>>>>> 607479f200367d4cd569f9dbe80a73aacabc21fa
 
 **Требуется:**
 
@@ -47,6 +52,9 @@ _Господа, давайте не будем торопиться с пост
     <li><a href="http://habrahabr.ru/post/206968/">Глава 13. Найди ментора</a></li>
     <li><a href="http://habrahabr.ru/post/207188/">Глава 14. Будь ментором</a></li>
     <li><a href="http://habrahabr.ru/post/207098/">Глава 15. Практика, практика, практика</a></li>
+    <li><a href="http://habrahabr.ru/post/207374/">Глава 18. Автоматизируй свою работу</a></li>
+    <li><a href="http://habrahabr.ru/post/207310/">Глава 19. Прямо сейчас</a></li>
+    <li><a href="http://habrahabr.ru/post/207362/">Глава 20. Телепат</a></li>
     <li><a href="http://habrahabr.ru/post/189650/">Глава 31. Не паникуй</a></li>
   </ul>
 </spoiler>
