@@ -1,15 +1,29 @@
-#### 15. Practice, Practice, Practice
+#### 15. Практика, Практика, Практика
 
 When I was a music student, I spent long nights in my university’s music building. Through the thin
 walls of the university’s practice rooms, I was constantly immersed in some of the ugliest musical
 sounds imaginable. It’s not that the musicians at my school weren’t any good. Quite the contrary.
 But they were practicing.
 
+Когда я учился музыке, то проводил долгие ночи в "музыкальных классах" своего университета.
+Благодаря тонким стенам комнат я постоянно был погружён в какофонию самых ужасных музыкальных
+звуков, какие только можно представить. Это не значит, что музыканты в колледже были так плохи.
+Как раз наоборот. Но они практиковались.
+
+
 When you practice music, it _shouldn’t_ sound good. If you always sound good during practice
 sessions, it means you’re not stretching your limits. That’s what practice is for. The same is true
 in sports. Athletes push themselves to the limit during workouts so they can _expand_ those limits
 for the real performances. They let the ugliness happen behind closed doors — not when they’re
 actually working.
+
+Когда вы упражняетесь в музыке, она *не обязана* звучать хорошо. Если она всегда звучит у вас хорошо
+во время практики, значит вы не пытаетесь превзойти себя. Это то, для чего она предназначена.
+То же самое в спорте. Спортсмены на тренировках работают немного за пределами своих нынешних
+возможностей, чтобы _расширить_ их и на реальных соревнованиях чувствовать себя нормально.
+Они допускают ошибки, но за закрытыми дверями, а не на работе.
+
+
 
 In the computer industry, it’s common to find developers stretched to their limits. Unfortunately,
 this is usually a case of a developer being underqualified for the tasks that he or she has
@@ -18,19 +32,46 @@ getting onstage and replicating the gibberish from my university’s practice ro
 tolerated. Musicians are paid to _perform_ in public — not to practice. Similarly, a martial artist or
 boxer stressing himself or herself to fatigue during matches wouldn’t go very far in the sport.
 
+В ИТ часто можно найти разработчиков, которые достигли своих границ. К сожалению, обычно такой
+разработчик недостаточно квалифицирован для выполнения той работы, для которой его нанимают. Наша
+индустрия имеет склонность практиковаться во время работы. Можете представить профессионального
+музыканта,  который бы выходил на сцену и играл то, что я слышал в классах своего музыкального
+колледжа? Его бы не поняли. Музыкантам платят *за концерты*, а не за практику. Что боец, что
+боксер, если они валятся с ног от усталости во время поединка, - они недалеко пойдут в спорте.
+
+
 As an industry, we need to make time for practice. We in the West often make the case for domestic
 programmers based on the relatively high quality of the code they produce vs. that of offshore
 teams. If we’re going to try to compete based on quality, we have to stop treating our jobs as a
 practice session. We have to _invest the time_ in our craft.
+
+Как индустрия, мы должны научиться выделять время для практики. У нас на Западе местные
+программисты часто производят более высококачественный код, чем зарубежные компании. Если мы
+пытаемся соревноваться в качестве, мы должны прекратить использовать рабочее время
+для практики. Мы должны *инвестировать время* в наше ремесло.
+
 
 Several years back, I started experimenting with programming exercises modeled after my musical
 practice sessions. Rule number one was that the software I was developing couldn’t be something I
 wanted to use. I didn’t want to cut corners, rushing to an end goal. So, I wrote software that
 wasn’t useful.
 
+Несколько лет назад я начал экспериментировать с упражнениями по программированию по аналогии
+с моими занятиями музыкой. Первым правилом было то, что ПО, которое я разрабатывал, не должно быть
+тем, чем я сам хотел бы пользоваться. Я не хотел срезать углы, мчась к конечной цели.
+Так что я писал бесполезное ПО.
+
+
+
 I cut no corners but was frustrated to find that a lot of the ideas I had while practicing weren’t
 working. Though I was trying to do as good a job as possible, the designs and code I was creating
 weren’t as elegant as I had hoped they’d be.
+
+Я не спешил, сокращая путь, но был разочарован, обнаружив, что многие мои идеи не работали.
+Хотя я пытался делать работу настолько хорошо, насколько возможно, дизайн и код не
+были красивыми настолько, насколько я надеялся.
+
+
 
 Looking back on it now, I see that the awkward feeling I got from these experiences
 was a _good sign_.
@@ -40,10 +81,23 @@ pretty sounds came out, I’d know I wasn’t practicing. Likewise, if I sit dow
 nothing but elegant code comes out, I’m probably sitting somewhere near the _center_ of my current
 capabilities instead of the edges, where a good practice session should place me.
 
+Оглядываясь назад, я вижу, что испытанное тогда странное чувство было хорошим знаком.
+Мой код не был полностью лишен изящных моментов. Но я напрягал извилины и создавал свои
+участки кода. Так же, как при игре на саксофоне, если при практике не было ничего кроме хорошего
+звука, я знал, что недостаточно стараюсь. Точно так же, при написании кода, если при этом
+получался только красивый код, я скорей всего находился где-то *в центре* своих мыслительных
+способностей, а не на границе возможностей, где самое место для хорошей практики.
+
 
 So, how do you know what to practice?
 
+Итак, как нам узнать, что надо тренировать?
+
+
 > **Practice at your limits.**
+
+> **Практикуйтесь на пределе своих способностей.**
+
 
 What stretches your limits? The subject of 
 how to practice as a software developer
@@ -51,15 +105,33 @@ could easily fill a book of its own. As a start, I’ll borrow again from
 my experience as a jazz musician. I’d break jazz practice down into the
 following categories (simplified for the nonmusicians among us):
 
+Что расширит ваши пределы возможностей? Что
+касается практики при разработке ПО, то это тема для отдельной книги. Для начала
+я бы снова позаимствовал свой опыт джазового музыканта. Я бы разбил практику на
+следующие категории (упрощенно для не-музыкантов среди нас):
+
 * Physical/coordination
 * Sight reading
 * Improvisation
 
+- физика/координация
+- чтение с листа
+- импровизация
+
+
 These might serve as a framework for _one way_ to think about practice as a software developer.
+
+(???) Что здесь вообще написано??? Смысл от меня ускользает.
+Это может послужить каркасом для... И всё -- дальше я вообще ничего не понимаю.
+
 
 **Physical/coordination:** Musicians have to practice the technical aspects of their instruments: sound
 production, physical coordination (making your fingers move nimbly, for example), speed, and
 accuracy are all important to practice.
+
+**Физика/координация:** Музыканты должны практиковаться в технических аспектах своих музыкальных
+инструментов: извлечение звука, физическая координация (заставляя пальцы двигаться
+легко, например), скорость и точность - все это важно при практике.
 
 What equivalent do we software developers have of these musical fundamentals? What about the dusty
 corners of your primary programming language that you rarely visit? For example, does your
@@ -69,6 +141,18 @@ don’t use them when they could, because they don’t have the level of skill t
 productive with them. As a result, a lot of needless stringparsing code gets created and then has to
 be maintained.
 
+Какой эквивалент
+есть у разработчиков программного обеспечения по сравнению этими основными
+положениями для музыки? Что есть такого в пыльных уголках вашего языка
+программирования, на что вы редко обращаете внимание? Например, поддерживает ли
+выбранный вами язык программирования регулярные выражения? Это
+очень мощный и, что печально, недостаточно используемый инструмент во многих средах разработки.
+Очень часто разработчики не используют их, тогда когда есть такая возможность,
+из-за недостаточного уровня знаний для эффективного использования регулярных
+выражений. Как результат, создается множество ненужного кода по структурному анализу
+строк (needless string-parsing code), который в дальнейшем должен сопровождаться.
+
+
 The same rules apply to your language’s APIs or function libraries. If you don’t get the
 environment’s many tools under your fingers (as musicians say), it’s less likely you’ll pull them
 out when they could really help you. Try truly digging into, for example, the way multithreaded
@@ -77,6 +161,19 @@ programming APIs, or even the set of utilities available for dealing with collec
 modern programming languages offer rich and powerful libraries in all of these areas, but software
 developers tend to learn a small subset, with which they can less efficiently write the same code
 they could have written if they had mastered the full set of tools available to them.
+
+Те же правила применимы к API вашего языка программирования или библиотекам функций. Если
+у вас нет "мышечной памяти" на множество инструментов своего средства разработки, маловероятно,
+что вы ими воспользуетесь, когда они действительно могли бы помочь.
+Попытайтесь по-настоящему углубиться, например, в то, как работает
+многопоточное программирование в выбранной вами среде разработки. Или как насчет
+библиотек для работы с потоками, сетевого API, или даже набора утилит, доступных для
+работы со списками или коллекциями? Большинство современных языков программирования
+предлагают богатые и мощные библиотеки во всех этих областях, но разработчики ПО
+предпочитают изучать малую часть, с которой они могут менее эффективно писать тот же
+самый код, который могли бы писать, владея полным набором доступных им инструментов.
+
+
 
 **Sight reading**: Especially as a studio musician, the ability to read and play music near perfectly
 the first time is paramount for a professional. I once played saxophone on a jingle for Blockbuster
