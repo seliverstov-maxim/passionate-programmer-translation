@@ -1,3 +1,7 @@
+- @urtica перевод
+- @rb2 перевод
+
+
 #### 15. Практика, Практика, Практика
 
 When I was a music student, I spent long nights in my university’s music building. Through the thin
