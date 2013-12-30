@@ -186,7 +186,7 @@ your team and your leader. Make sure the documents are stored
 somewhere so that they will remain easily accessible to the team.
 Repeat this exercise periodically.
 
-Действуйте!
+##### Действуйте!
 1. Проведите инвенторизацию всего написанного и поддерживаемого вами кода и 
 всех задачь что вы выполняете. Заметьте все в чем команда полностью зависит 
 от вас. Может быть вы единственный человек который полностью понимает 
