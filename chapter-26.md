@@ -1,7 +1,8 @@
 - @shchemelevev перевод
 
 
-A Pebble in a Bucket of Water
+#### 26. A Pebble in a Bucket of Water
+
 #### Глава 26. Камень в кувшине с водой
 
 
