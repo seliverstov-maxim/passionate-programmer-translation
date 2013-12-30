@@ -96,7 +96,7 @@ Things are going so well. You’ve got too much going for you.
 
 Его сотркдники смотрели нанего с подозрением. Нет. Сегодня вас не уволят.
 Ведь все идет так хороше. Слишком многое от вас зависит.
-# http://idioms.thefreedictionary.com/have+a+lot+going+for
+(http://idioms.thefreedictionary.com/have+a+lot+going+for)
 
 
 
