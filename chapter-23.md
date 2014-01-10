@@ -151,6 +151,10 @@ life.
 But, shouldn’t we have ambitions? Would there be a Microsoft or a General 
 Electric if the great entrepreneurs hadn’t been ambitious and had goals?
 
+Но разве нам не стоит быть абициозными? Возникли бы такие корпорации как 
+Майкрософт и Дженерал Электрик если бы великие предприниматели не имели своих 
+амбиций и целей?
+
 
 
 Of course we should. I’m not advocating an apathetic outlook. It’s good to 
@@ -159,6 +163,12 @@ resentful guy I described at the beginning of this section.  Do you think that
 guy is going to be the one who succeeds? It seems backward, but keeping your 
 mind focused on the present will get you further toward your goals than 
 keeping your mind focused on the goal itself.
+
+Конечно же стоит. Я не пропагандирую апатичный вид. Иметь цели - хороше, и 
+хороше хотеть преуспеить. Но, подумайте о обратной стороне, об обиженном парне 
+которого я описал в начале главы. Вы думаете тот парень станет одним из тех 
+кто преуспеет? Кажется что нет, но фокусируясь на будущем вы скорее 
+продвинитесь чем если бы вы фокусировались на цели.
 
 
 
@@ -172,12 +182,28 @@ you’re always walking around with your head in the clouds. You’ll always be
 waiting for the big one while ignoring the little things that happen every day 
 that make your job worth showing up for.
 
+По началу это может звучать слегка заумно. Может даже как часть наставления 
+монаха-буддиста. "Отбросить ежедневный путь к успеху" может звучать как 
+аскетичная, недостежимая цель. Тем не менее, вы поймете что это очень 
+прагматично. Фокусировка на будущем позволит вам наслаждаться мелкими победами 
+в вашей ежедневной жизни: чувстом хороше сделанной работы, чувством приглашения 
+в качестве эксперта в критической бизнес проблеме, чувством того что вы 
+важный член сплоченного коллектива. Вот то что вы теряете если всегда витаете 
+в облаках. Вы всегда будуте ждать чего-то значительного, пропуская маленькие 
+события которые происходят каждый день и делаю вашу работу стоящей.
+
 
 
 Not only will you feel better, but those around you will feel it as well.
 Your co-workers, managers, and customers will feel it. It will show in your 
 work. As unintuitive as it may be, letting go of your desire to succeed will 
 result in an enhanced ability to succeed.
+
+Не только вы начнете чувствовать себя лучше, но и окружающие заметят и 
+почувствуют это тоже. Ваши товарищи, начальники, и клиенты почувствуют это. Это 
+проявится в том как вы работаете. Каким бы странным это не казалось, но отказ 
+от страстного желания достигнуть цели в результате повысит вашу способность 
+быть успешным.
 
 
 
@@ -186,9 +212,17 @@ makers who will shape your career in the short term and, possibly, the long
 term. Developers in India or the Philippines don’t have this advantage, but 
 you do. So, be where you’re at.
 
+Вы находитесь близко от своих клиентов. Вы рядом с вашим начальством и теми кто 
+принимает решения, теми кто влияет на вашу карьеру в кроткосрочной и, возможно, 
+долгосрочной перспективе. Разработчики в Индии и Филипинах лишены этого 
+приимущества, но не вы. Так будьте на своем месте.
+
 
 
 Act on It!
+
+##### Действуйте!
+
 1. Put your career goals away for a week. Write down your goals for your 
 current job. Instead of thinking about where you want to go next, think about 
 what you want to have accomplished when you finish the job you’re in. What can 
@@ -199,7 +233,22 @@ your co-workers, focus the conversation on these goals. Steer yourself and
 those around you away from any conversation about career advancement or office 
 politics and gossip. 
 
+1. Отложите свои карьерные цели на одну неделю. Запишите цели для текущей 
+работы. Вместо того чтобы думать о слудующей должности, подумайте о том какую 
+бы вы хотели выполнить задачу после того как закончите с текущей. Что можно 
+сделать шикарного на текущем месте работы? Придумайте стратегический и 
+тактический план. Потратьте неделю на его реализацию для того чтобы в будущем 
+"закончить" эту работу. Во время ланчей и перерывов в разговорах с товарищами 
+сфокуссируйтесь на текущих целях. Старайтесь держать себя и коллег подальше 
+от разговоров о повышении или офисной политике и сплетнях.
+
+
 At the end of the week, take stock of your progress toward meeting these job 
 goals. How long will it be before you’ve accomplished everything you feel you 
 need to in your current role? How will you know you’re done? Plan the next 
 week and repeat.
+
+В конце недели, отметьте насколько вы продвинулись в достижении целей на 
+текущей должности. Как долго вы еще будете работать пока не достигните чувства 
+что сделали все что нужно в своей текущей роли? Как вы узнаете что уже все?
+Спланируйте следующую неделю и повторите.
