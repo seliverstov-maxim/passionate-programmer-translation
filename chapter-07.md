@@ -10,13 +10,15 @@ _(Примечание от переводчика: Уже были опубли
 
 [Как я отказался от $300.000, предложенных мне компанией Microsoft, взамен на полный рабочий день на GitHub’е](http://habrahabr.ru/post/196426/).
 
+#### Глава 7. Будь универсалом
+
 По крайней мере пару десятилетий, менеджеры и владельцы бизнеса считали, что разработка программного
 обеспечения – по сути конвейерный процесс. Технические требования создаются, архитекторы претворяют
 эти спецификации в высокоуровневое техническое видение. Дизайнеры заполняют архитектуру
 детализированной дизайн-документацией, которая передается роботоподобным кодерам, которые держа
 научно-фантастические новеллы в одной руке, другой в слепую печатают реализацию дизайна. В итоге,
 Инспектор 12 (прим. пер. — судя по всему отсылка на старую
-[рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM) <span style="padding: 0; margin: 0;">&nbsp;<a 
+[рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM) <span style="padding: 0; margin: 0;">&nbsp;<a
 href="http://savefrom.net/?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di3jiu4_rsGM&amp;utm_source
 =chrome&amp;utm_medium=extensions&amp;utm_campaign=link_modifier" target="_blank" title="Get a
 direct link" savefrom_lm="1" style="border: none; text-decoration: none; padding: 0px; position:
