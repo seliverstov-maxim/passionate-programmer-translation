@@ -154,3 +154,11 @@ J2EE приложения. Программисты С++, программиру
 
 В конце концов, как мы уже обсуждали в главе «[Кодинг еще не всё](http://habrahabr.ru/post/86590/)»,
 стена между бизнесом и IT должна быть снесена. Начинайте изучать, как работает ваш бизнес.
+
+##### Действуй
+
+1. On a piece of paper or a whiteb oard,list the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty. For example, if Platform and Operating System is one of your dimensions, you might write Windows/.NET next to it. Now, to the right of your specialty, write one or more topics you should put into your “To Learn” list. Contin- uing with the same example, you might write Linux and Java (or even Ruby or Perl).
+
+
+
+As soon as possible (some time this week at the latest!), find thirty minutes of time to start addressing at least one of the “To Learn” items on your list. Don’t just read about it. If possible, get some hands-on experience. If it’s web technology, then download a web server package and set it up yourself. If it’s a business topic, find one of your customers at work and ask them to go out for lunch for a chat.
