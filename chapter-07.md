@@ -46,7 +46,7 @@ J2EE приложения. Программисты С++, программиру
 Так как же стать этим человеком, чье имя произносится когда ищут супергероя, который спасет
 положение? Суть в том, чтобы быть способным решать проблемы, которые еще не возникли.
 
-Что это за проблемы? Правильно: вы не знаете. Я тоже. Все что я _знаю _– это то, что эти проблемы
+Что это за проблемы? Правильно: вы не знаете. Я тоже. Все что я _знаю_ – это то, что эти проблемы
 такие же разнообразные, как вопросы развертывания, критические недостатки дизайна, которые должны
 быть решены и быстро переделаны, разнородная системная интеграции и специальная генерация отчетов.
 Столкнувшись с проблемой такой же нестандартной, как эти, бедный Инспектор 12 будет выбит из колеи
@@ -79,7 +79,7 @@ J2EE приложения. Программисты С++, программиру
 попытки решить эту проблему, не уходя от конвейерно-ориентированной системы, но мы все еще не знаем,
 как оптимизировать наши «фабрики ПО» до приемлемого уровня.
 
-Если вы _только _кодер или тестер, или дизайнер, или архитектор, в конце концов вы можете обнаружить
+Если вы _только_ кодер или тестер, или дизайнер, или архитектор, в конце концов вы можете обнаружить
 себя сидящим без дела или делающим бесполезную работу. Если вы только J2EE программист, или .NET
 программист или программист UNIX систем, вы не внесете большой вклад, когда направление проекта или
 компании выходит за рамки, даже временно, вашей профессиональной области. Речь не о том, какое место
@@ -149,10 +149,29 @@ J2EE приложения. Программисты С++, программиру
 В конце концов, как мы уже обсуждали в главе «[Кодинг еще не всё](http://habrahabr.ru/post/86590/)»,
 стена между бизнесом и IT должна быть снесена. Начинайте изучать, как работает ваш бизнес.
 
-##### Действуй
+##### Действуй!
 
 1. On a piece of paper or a whiteb oard,list the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty. For example, if Platform and Operating System is one of your dimensions, you might write Windows/.NET next to it. Now, to the right of your specialty, write one or more topics you should put into your “To Learn” list. Contin- uing with the same example, you might write Linux and Java (or even Ruby or Perl).
 
+1. Выпишите на листке бумаги или офисной доске направления, по которым вы можете
+    или не можете обобщить свои знания и способности. Для каждого из них напишите
+    свою специализацию. Например, если один из пунктов вашего списка --
+    "Платформа / Операционная система", рядом можно написать "Windows/.NET".
+    Теперь, ещё правее от специализации, напишите одну или более тем, которые
+    стоило бы поместить в список "Надо подучить". Продолжая этот же пример, вы
+    можете написать дальше Linux и Java (а может даже Ruby или Perl).
 
 
-As soon as possible (some time this week at the latest!), find thirty minutes of time to start addressing at least one of the “To Learn” items on your list. Don’t just read about it. If possible, get some hands-on experience. If it’s web technology, then download a web server package and set it up yourself. If it’s a business topic, find one of your customers at work and ask them to go out for lunch for a chat.
+    As soon as possible (some time this week at the latest!), find thirty minutes of
+    time to start addressing at least one of the “To Learn” items on your list.
+    Don’t just read about it. If possible, get some hands-on experience. If it’s web
+    technology, then download a web server package and set it up yourself. If it’s a
+    business topic, find one of your customers at work and ask them to go out for
+    lunch for a chat.
+
+    Как можно скорее (на этой неделе или на следующей) найдите 30 минут для того,
+    чтобы начать заниматься хотя бы одним из пунктов списка "Надо подучить".
+    Не просто прочитать про него. Если возможно, попробуйте что-то сделать с его
+    помощью. Если это веб-технология, то скачайте и установите веб-сервер
+    самостоятельно. Если это из области бизнеса, найдите одного из ваших клиентов
+    (заказчика, покупателя) и пригласите его поговорить во время обеда.
