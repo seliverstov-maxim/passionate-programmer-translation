@@ -2,7 +2,7 @@
 - @rb2 перевод
 
 
-#### 15. Практика, Практика, Практика
+#### Глава 15. Практика, Практика, Практика
 
 When I was a music student, I spent long nights in my university’s music building. Through the thin
 walls of the university’s practice rooms, I was constantly immersed in some of the ugliest musical

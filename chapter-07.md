@@ -10,13 +10,15 @@ _(Примечание от переводчика: Уже были опубли
 
 [Как я отказался от $300.000, предложенных мне компанией Microsoft, взамен на полный рабочий день на GitHub’е](http://habrahabr.ru/post/196426/).
 
+#### Глава 7. Будь универсалом
+
 По крайней мере пару десятилетий, менеджеры и владельцы бизнеса считали, что разработка программного
 обеспечения – по сути конвейерный процесс. Технические требования создаются, архитекторы претворяют
 эти спецификации в высокоуровневое техническое видение. Дизайнеры заполняют архитектуру
 детализированной дизайн-документацией, которая передается роботоподобным кодерам, которые держа
 научно-фантастические новеллы в одной руке, другой в слепую печатают реализацию дизайна. В итоге,
 Инспектор 12 (прим. пер. — судя по всему отсылка на старую
-[рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM) <span style="padding: 0; margin: 0;">&nbsp;<a 
+[рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM) <span style="padding: 0; margin: 0;">&nbsp;<a
 href="http://savefrom.net/?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di3jiu4_rsGM&amp;utm_source
 =chrome&amp;utm_medium=extensions&amp;utm_campaign=link_modifier" target="_blank" title="Get a
 direct link" savefrom_lm="1" style="border: none; text-decoration: none; padding: 0px; position:
@@ -152,3 +154,11 @@ J2EE приложения. Программисты С++, программиру
 
 В конце концов, как мы уже обсуждали в главе «[Кодинг еще не всё](http://habrahabr.ru/post/86590/)»,
 стена между бизнесом и IT должна быть снесена. Начинайте изучать, как работает ваш бизнес.
+
+##### Действуй
+
+1. On a piece of paper or a whiteb oard,list the dimensions on which you may or may not be generalizing your knowledge and abilities. For each dimension, write your specialty. For example, if Platform and Operating System is one of your dimensions, you might write Windows/.NET next to it. Now, to the right of your specialty, write one or more topics you should put into your “To Learn” list. Contin- uing with the same example, you might write Linux and Java (or even Ruby or Perl).
+
+
+
+As soon as possible (some time this week at the latest!), find thirty minutes of time to start addressing at least one of the “To Learn” items on your list. Don’t just read about it. If possible, get some hands-on experience. If it’s web technology, then download a web server package and set it up yourself. If it’s a business topic, find one of your customers at work and ask them to go out for lunch for a chat.
