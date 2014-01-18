@@ -17,14 +17,8 @@ _(Примечание от переводчика: Уже были опубли
 эти спецификации в высокоуровневое техническое видение. Дизайнеры заполняют архитектуру
 детализированной дизайн-документацией, которая передается роботоподобным кодерам, которые держа
 научно-фантастические новеллы в одной руке, другой в слепую печатают реализацию дизайна. В итоге,
-Инспектор 12 (прим. пер. — судя по всему отсылка на старую
-[рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM) <span style="padding: 0; margin: 0;">&nbsp;<a
-href="http://savefrom.net/?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di3jiu4_rsGM&amp;utm_source
-=chrome&amp;utm_medium=extensions&amp;utm_campaign=link_modifier" target="_blank" title="Get a
-direct link" savefrom_lm="1" style="border: none; text-decoration: none; padding: 0px; position:
-relative; z-index: 998;"><img src="data:image/gif;base64,R0lGODlhEAAQAOZ3APf39+Xl5fT09OPj4/Hx8evr6/3+/u7u7uDh4OPi497e3t7e3/z8/P79/X3GbuXl5ubl5eHg4WzFUfb39+Pj4lzGOV7LOPz7+/n6+vn5+ZTLj9/e387Ozt7f3/7+/vv7/ISbePn5+m/JV1nRKXmVbkCnKVrSLDqsCuDh4d/e3uDn3/z7/H6TdVeaV1uSW+bn5v39/eXm5eXm5kyHP/f39pzGmVy7J3yRd9/f3mLEKkXCHJbka2TVM5vaZn6Wdfn6+YG/c/r5+ZO/jeLi41aHTIeageLn4f39/vr6+kzNG2PVM5i+lomdf2CXYKHVmtzo2YXNeDqsBebl5uHh4HDKWN3g3kKqEH6WeZHTXIPKdnSPbv79/pfmbE7PHpe1l4O8dTO5DODg4VDLIlKUUtzo2J7SmEWsLlG4NJbFjkrJHP7+/VK5Nfz8+zmnC3KKa+Hg4OHh4Y63j/3+/eDg4Ojo6P///8DAwP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAHcALAAAAAAQABAAAAfWgHd2g4SFhYJzdYqLjIpzgx5bBgYwHg1Hk2oNDXKDFwwfDF5NLmMtcStsn4MhGT8YS04aGmU1QRhIGYMTADQAQlAODlloAMYTgwICRmRfVBISIkBPKsqDBAREZmcVFhYVayUz2IMHB1dWOmImI2lgUVrmgwUFLzdtXTxKSSduMfSD6Aik48MGlx05SAykM0gKhAAPAhTB0oNFABkPHg5KMIBCxzlMQFQZMGBIggSDpsCJgGDOmzkIUCAIM2dOhEEcNijQuQDHgg4KOqRYwMGOIENIB90JBAA7"
-alt="SaveFrom.net" title="Get a direct link" border="0" style="border: none; width: auto; height:
-auto;"></a></span>) получает законченный код, на который она не поставит свой подтверждающий штамп,
+Инспектор 12 ^[прим. пер. — судя по всему отсылка на старую [рекламу](http://www.youtube.com/watch?v=i3jiu4_rsGM)]
+получает законченный код, на который она не поставит свой подтверждающий штамп,
 до тех пор, пока не увидит оригинальные спецификации.
 
 Не удивительно, что менеджеры хотят видеть разработку ПО, как конвейер. Менеджеры _понимают_, как
