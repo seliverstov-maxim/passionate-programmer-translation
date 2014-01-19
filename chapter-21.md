@@ -7,6 +7,11 @@ people, that we are going to naturally nail execution and be top performers.
 For a lucky few (and I _do_ mean to use the word _luck_ here), a strategy like 
 this will work.
 
+Мы все любим верить, благодаря силе начего воображения, что мы - хорошие 
+разработчики ПО, что мы выполним задачу и будем среди самых производительных. 
+Для немногих счастливчиком (и я _намерянно_ использую слово удача здесь), такая 
+стратегия сработает.
+
 
 
 But, all of us can benefit from scheduling and tracking our accomplishments. 
@@ -15,6 +20,12 @@ the A list. Given that exceeding expectations is a worthy goal, surprisingly
 few of us have mechanisms of tracking how and when we exceed the expectations 
 of our employers.
 
+Но, все могут получить приимущество от использования расписания и отслеживания 
+выполненных задачь. Логика подсказывет нам что если мы превзойдем ожидания 
+начальства то будем следующими на повышение. Превзойти ожидания - стоящая цель, 
+но как ни странно лишь немногие имеют механизм отслеживания того когда и как мы 
+превзошли эти ожидания.
+
 
 
 As with most tasks that are worth doing, becoming a standout performer is more 
@@ -22,9 +33,15 @@ likely with some specific and intentional work. When was the last time you went
 above and beyond the call of duty? Did your manager know about it? How can you 
 increase the _visible_ instances of this behavior?
 
+Как и с большенством задачь стоящих выполнения, стать выдающимся исполнителем 
+более вероятно со специфичным и намеренными способом исполнения. Когда в 
+последний раз вы превзошли себя? Ваш начальник знает об этом? Как вам сделать 
+свои успехи более _звметными_?
+
 
 
 *Have an accomplishment to report every day.*
+*Пусть у вас каждый день будет задача о выполнении которой можно рассказать.*
 
 
 
@@ -37,6 +54,15 @@ to, each day, have some kind of outstanding accomplishment to report to his
 manager—some idea he had thought of or implemented that would make his 
 department better.
 
+Джеймс МакМюррей, товарищ и хороший друг, в самом начале наших карьер рассказал 
+мне о системе которую изобрел чтобы работать лучше. В котором я увидел большой 
+потенциал учитывая его уровень опыта (возможно эту подсказку ему дали 
+родители). Я пользуюсь им до сих пор. Не предупреждая начальства, он начал 
+отслеживать выполнение _ежедневных задачь_. Его целью было, ежедневно делать 
+что-нибудь выдающееся, чтобы рассказывать это своему начальству - какую-нибудь 
+идею о которой он подумал или даже реализовал для того чтобы сделать свой отдел 
+лучше.
+
 
 
 Simply setting a goal (daily, weekly, or whatever you’re capable of) and 
@@ -44,6 +70,12 @@ tracking this type of accomplishment can radically change your behavior. When
 you start to search for outstanding accomplishments, you naturally go through 
 the process of evaluating and prioritizing your activities based on the 
 business value of what you might work on.
+
+Просто устанавливая цель (дневную, недельную или вашим промежутком) и 
+отслеживая его выполнение вы можете радикально изменить свое поведение. 
+Когда вы начинаете искать выдающихся достижений, вы сами собой приходите к 
+процессу оценки и приоретизации своих действий на основе ценности их для 
+бизнеса.
 
 
 
@@ -65,9 +97,20 @@ out today’s hit. You don’t have to worry so much about tracking your progres
 because performing at this level becomes more akin to a nervous tic than a set 
 of tasks that need to be planned out in Microsoft Project.
 
+Отслеживая задачи с разумно высокой частотой позволят вам быть уверенным что 
+вы не застряли: если вы хотите выполнять хотябы одну значимую задачу вд ень, 
+вы не можете проводить две недели пытаясь досичь _совершенства_ в коде.
+
+Рисунок 2: Неделя выполненных задачь
+Понедельник - Автоматизировать сборку!
+Вторник - Написать тесты кода парсинга ленты
+Среда - Поискать подходящий ОРМ чтобы не писать sql в ручную
+Четверг - Начать процесс развертки веб приложения
+Пятница - Исправить все предупреждения компилятора
 
 
-Act on It!
+
+##### Act on It!
 ##### Действуйте!
 
 
@@ -86,3 +129,17 @@ up. After you’ve made your list, on a new sheet of paper write out your five
 favorite (most annoying) items. Next week, on Monday, take the first item from 
 the list, and do something about it. On Tuesday, take the second item, 
 Wednesday the third, and so on.
+
+Выделите полчаса в своем расписание, и сядьте с карадошем и бумагой в тихом 
+месте, там где вас не прервут. Вспомните о мелких надоедливых проблем которые 
+встречает ваша команда ежедневно. Запишите  их. Какие проблемы прятят пару 
+минут вашей команды каждый день и ни у кого нет времени и энергии чтобы 
+сделать что-нибудь с ними? Что в текущем проекте вы делаете в ручную из того 
+что возможно автоматизировать? Запишите. Что насчет процесса сборки и 
+развертки? Что-нибудь можно улучшить? Как можно снизить процент проваленных 
+сборок? Запишите все эти идеи. Выделите целых 20 минут на это. Записывайте все 
+в не зависимости плохой или хорошей покажется вам идея. Не сдавайтесь пока 
+идут эти 20 минут. После того как составите ваш список, на новом листе бумаги 
+запишите пять самых любимых(надоедливых) вещей. На следующей неделе, в 
+понедельник, возьмите первое из списка и сделайте что-нибудь с этим. Во 
+вторник - второй элемент списка, среда - третий и так далее.
