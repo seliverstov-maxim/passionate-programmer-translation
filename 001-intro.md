@@ -1,3 +1,4 @@
+- перевод: [KoppeKTop](http://habrahabr.ru/users/KoppeKTop/)
 - @rb2 вычитка
 
 25 декабря 2009 в 02:48
@@ -61,7 +62,3 @@
 [Глава 2 -\>](http://koppektop.habrahabr.ru/blog/79839/)
 
 -   [Passionate Programmer](http://habrahabr.ru/search/?q=%5BPassionate%20Programmer%5D&target_type=posts)
-
-
-[KoppeKTop](http://habrahabr.ru/users/KoppeKTop/ "Автор текста")
-
