@@ -3,7 +3,7 @@
 
 
 #### 21. Daily Hit
-#### 21. Ежедневное дело
+#### 21. Ежедневное достижение
 
 
 
@@ -87,12 +87,11 @@ Tracking hits at a reasonably high frequency will ensure that you don’t get
 stuck: if you’re supposed to produce a hit per day, you can’t spend
 
 Figure 2: One week of hits
-Monday - Automate the Build!
-Tuesday - Write tests for feed parsing code
-Wednesday - Look into Object/Releatioal Mapping tools so we can stop writing 
-all that SQL!
-Thursday - Script the web app deployment process
-Friday - Clean up the project`s compilation warnings
+- Monday - Automate the Build!
+- Tuesday - Write tests for feed parsing code
+- Wednesday - Look into Object/Releatioal Mapping tools so we can stop writing all that SQL!
+- Thursday - Script the web app deployment process
+- Friday - Clean up the project`s compilation warnings
 
 two weeks crafting the _perfect_ task. This type of thinking and work becomes 
 a habit rather than a major production. And, like a developer addicted to the 
@@ -106,11 +105,11 @@ of tasks that need to be planned out in Microsoft Project.
 вы не можете проводить две недели пытаясь достичь _совершенства_ в коде.
 
 Рисунок 2: Неделя выполненных задач
-Понедельник - Автоматизировать сборку!
-Вторник - Написать тесты кода разбора ленты
-Среда - Поискать подходящий ORM чтобы не писать sql в ручную
-Четверг - Начать процесс развертки веб приложения
-Пятница - Исправить все предупреждения компилятора
+- Понедельник - Автоматизировать сборку!
+- Вторник - Написать тесты кода разбора ленты
+- Среда - Поискать подходящий ORM чтобы не писать sql в ручную
+- Четверг - Начать процесс развертки веб приложения
+- Пятница - Исправить все предупреждения компилятора
 
 Такой тип мышления станет скорее привычкой нежели усилием. И, как разработчик 
 подсевший на зеленые статусы удачно прошедших юнит-тестов, вы начинаете 
