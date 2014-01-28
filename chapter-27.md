@@ -66,6 +66,9 @@ So, the motivating factors are the ability to be creative and the chance to
 make steps toward a promotion. The funny thing about it is that project work is 
 _not_ necessarily the best place to do either.
 
+Итак, мотивирующие факторы -- это возможность творить и шанс сделать шаги
+в продвижении по карьерной лестнице. Забавное в этом то, что работа над
+проектами -- совсем _необязательно_ лучшее место для этого.
 
 
 Maintenance work is typically littered with old, rotting systems and pushy end 
@@ -73,11 +76,20 @@ users. Since the software is thought of as being done, IT departments are
 usually focused on reducing the cost of maintaining these systems, so they look 
 for the cheapest possible way to keep the systems running.
 
+Работы по техническому обслуживанию обычно завалены старыми, загнивающими системами
+и въедливыми конечными пользователями. Как только софт считается готовым,
+IT-отделы обычно фокусируются на уменьшении издержек по обслуживанию
+этих систем, поэтому они смотрят в сторону как можно более дешёвых способов
+поддерживать эти системы в рабочем состоянии.
+
 
 
 That usually amounts to too few resources being assigned to look after the 
 systems and no significant investment dollars being pumped into rejuvenating 
 the systems.
+
+Это обычно означает, что слишком малая доля ресурсов выделяется для присмотра
+за системами и отсутствуют значительные денежные вливания в обновление систем.
 
 
 
@@ -127,7 +139,7 @@ have to do.
 
 What if a bug turns up the need to redesign a subsystem in the application? 
 That’s all part of bug fixing, right? The designs may be old and moldy, and 
-broken windows10 may be scattered throughout the system. That’s an opportunity 
+broken windows[^10] may be scattered throughout the system. That’s an opportunity 
 to put your refactoring chops to the test. How elegant can this system be? How 
 much faster can you fix or enhance this section next time because of the 
 refactoring you’re doing this time?
@@ -183,28 +195,35 @@ and made it a mission to learn how to do it well?
 
 
 
-Act on It!
+##### Действуйте!
+
 1. _Measure, improve, measure_—For the most critical application or code that 
-you maintain, make a list of _measurable_ factors that represent the quality of 
-the application. This might be response time for the application, number of 
-unhandled exceptions that get thrown during processing, or application uptime. 
-Or, if you handle support directly, don’t directly assess quality for the 
-_application_. Support request turnaround time (how fast you respond to and 
-solve problems) is an important part of your users’ experience with the 
-application.
+    you maintain, make a list of _measurable_ factors that represent the quality of 
+    the application. This might be response time for the application, number of 
+    unhandled exceptions that get thrown during processing, or application uptime. 
+    Or, if you handle support directly, don’t directly assess quality for the 
+    _application_. Support request turnaround time (how fast you respond to and 
+    solve problems) is an important part of your users’ experience with the 
+    application.
 
-Pick the most important of these measurable attributes, and start measuring it. 
-After you have a good baseline measurement, set a realistic goal, and improve 
-the application’s (or your own) performance to meet that goal. After you’ve 
-made an improvement, measure again to verify that you really made the 
-improvement you wanted. If you have, share it with your team and your customers.
-
-Pick another metric, and do it again. After the first one, you’ll find that it 
-becomes fun, like a game. Measurably improving things like this gets addictive.
-
-
+    _Измеряйте, улучшайте, снова измеряйте_ -- для наиболее критичного приложения
+    или кода, который вы обслуживаете, сделайте список _измеряемых_ факторов,
+    которые отражают качество приложения. Это может быть время отклика, количество
+    необработанных исключений, возникающих в процессе выполнения, время
+    непрерывной работы приложения. Или, если вы занимаетесь поддержкой
+    непосредственно, не оценивайте непосредственно качество _приложения_.
+    Время обработки запроса в техподдержку (насколько быстро вы отвечаете и
+    решаете проблемы) является важной частью впечатления пользователей от приложения.
 
 
+    Pick the most important of these measurable attributes, and start measuring it. 
+    After you have a good baseline measurement, set a realistic goal, and improve 
+    the application’s (or your own) performance to meet that goal. After you’ve 
+    made an improvement, measure again to verify that you really made the 
+    improvement you wanted. If you have, share it with your team and your customers.
+
+    Pick another metric, and do it again. After the first one, you’ll find that it 
+    becomes fun, like a game. Measurably improving things like this gets addictive.
 
 
 
@@ -213,4 +232,8 @@ becomes fun, like a game. Measurably improving things like this gets addictive.
 
 
 
-10. For more on broken windows, see The Pragmatic Programmer [HT00].
+
+
+
+
+[^10]: For more on broken windows, see The Pragmatic Programmer [HT00].
