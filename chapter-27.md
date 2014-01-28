@@ -1,4 +1,11 @@
+- re #70 (ch27) ...
+- @rb2 перевод
+
+
+
 #### 27. Learn to Love Maintenance
+
+#### Глава 27. Научись любить обслуживание
 
 
 
@@ -11,6 +18,13 @@ wanted to create a new environment with an energized culture, so we had to pay
 attention to what our new employees _wanted_ if we were going to start off on 
 the right path.
 
+Несколько лет назад я участвовал в создании с нуля центра разработки программного
+обеспечения размером в 250 человек. Мы начали с пустого здания и поставили задачи
+найма и полного наполнения этой организации разработчиками. В этом проекте мы
+столкнулись с испытанием, которого не ожидали. Каждый горел желанием создавать
+новые системы. Но никто не хотел обслуживать системы старые. Мы хотели создать
+новую среду с энергичной культурой, поэтому надо было уделить внимание тому, что
+наши новые работники _хотят_, если мы планировали начать в правильном направлении.
 
 
 Everyone likes creating. That’s when we feel we are given the opportunity to 
@@ -22,6 +36,15 @@ from the previous programmers I had worked with. But, in dealing with a couple
 hundred software developers in what amounted to a human resources petri dish, I 
 saw this to an extreme that I never expected.
 
+Любому нравится создавать. При этом мы чувствуем, что получили возможность
+действительно "поставить штампик" на часть работы. Чувствуем, что владеем
+результатом. Что выражаем себя через создание. Мы также склонны верить в то, что
+проекты -- наиболее заметная часть для наших организаций. Люди, которые создают
+новое поколение -- это люди, которые должны получить всю славу, правильно?
+Я знал, что такое отношение будет преобладать, исходя из предыдущего опыта работы
+с программистами. Но имея дело с несколькими сотнями разработчиков, этой
+[чашей Петри](http://ru.wikipedia.org/wiki/Чашка_Петри) из человеческих ресурсов,
+я насмотрелся этого через край, гораздо больше, чем ожидал.
 
 
 Though software developers are typically creative, freedom-loving people, the 
@@ -29,6 +52,13 @@ programmer “society” is surprisingly caste-like. Programmers want to be
 designers, who want to be architects, and so on. Maintenance work gives them 
 neither a notch in their belts nor a clear, elevated role (such as _architect_) 
 that they can tell their parents or college buddies.
+
+Хотя разработчики ПО обычно креативные и свободолюбивые люди, программерское
+"сообщество" на удивление кастовое. Программисты хотят быть дизайнерами, которые
+хотят быть архитекторами, и так далее. Работа по обслуживанию не сулит им
+следующий уровень на пути к чёрному поясу и, ясное дело, к более значимой
+роли (такой, как _архитектор_), о которой они смогут рассказать своим родителям
+или школьным приятелям.
 
 
 
