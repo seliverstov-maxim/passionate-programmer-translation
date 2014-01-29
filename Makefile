@@ -27,3 +27,13 @@ open:
 
 closed:
 	@ head -q -n 1 ./issues/*.md | grep CLOSED
+
+# Reports
+#
+# CONTRIBUTORS
+
+contributors:
+	echo '<!-- ATTN: Генерируется автоматически -->\n\n' > CONTRIBUTORS.md
+	git shortlog -sne --no-merges >> CONTRIBUTORS.md
+	echo '\n\n----\n\n' >> CONTRIBUTORS.md
+	git shortlog -ne --no-merges | sed 's/\:$$/&\n/' >> CONTRIBUTORS.md
