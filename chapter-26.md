@@ -1,5 +1,6 @@
 - @shchemelevev перевод
 - @shuvalov-anton вычитка
+- @shuvalov-anton вычитка, стилистические правки
 
 #### 26. A Pebble in a Bucket of Water
 
