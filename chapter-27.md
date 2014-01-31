@@ -308,15 +308,21 @@ and made it a mission to learn how to do it well?
     the application’s (or your own) performance to meet that goal. After you’ve 
     made an improvement, measure again to verify that you really made the 
     improvement you wanted. If you have, share it with your team and your customers.
+    
+    Отберите самые важные характеристики и начните измерять их. После того, как получите 
+    достаточное количество исходных данных, установите реалистичную цель и улучшайте 
+    поведение вашего приложения (или своё собственное) для соответствия этой цели. 
+    После того, как сделали какое-либо усовершенствование, проведите измерения заново, 
+    чтобы удостовериться в том, что Вы действительно улучшили то, что хотели. Если Вы это 
+    сделали, поделитесь достижением с Вашей командой и заказчиками.
 
     Pick another metric, and do it again. After the first one, you’ll find that it 
     becomes fun, like a game. Measurably improving things like this gets addictive.
 
 
-
-
-
-
+    Отметьте следующую метрику и сделайте это снова. После первого улучшения, каждое 
+    последующее покажется Вам развлечением, Вы втянетесь в игру. Внесение таких измеряемых 
+    улучшений становится хорошей привычкой.
 
 
 
@@ -324,3 +330,5 @@ and made it a mission to learn how to do it well?
 
 
 [^10]: For more on broken windows, see The Pragmatic Programmer [HT00].
+
+[^10]: Больше информации о разбитых окнах в издании [Программист-прагматик] (http://pragprog.com/the-pragmatic-programmer) [HT00].
