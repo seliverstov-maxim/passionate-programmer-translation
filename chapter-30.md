@@ -32,7 +32,7 @@ ness change we’re trying to make that is dependent on the fulfillment
 system. So, armed with your assurance that you can make the date, I
 run off and commit to my customers that it will be done.
 
-> *Соглашаясь только для избежания разочарования - это значит лгать*
+> *Соглашаться только для избежания разочарования - это значит лгать*
 
 Соглашаться на всё и всегда - это вредная и крайне разрушительная привычка,
 которая лишь маскируется под хорошую и безобидную, так как есть огромная
