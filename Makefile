@@ -1,3 +1,5 @@
+TPPRU=the-passionate-programmer-RU
+
 # issuesync: <https://github.com/mislav/issuesync>
 #
 ### Installation
@@ -37,3 +39,19 @@ contributors:
 	git shortlog -sne --no-merges >> CONTRIBUTORS.md
 	echo '\n\n----\n\n' >> CONTRIBUTORS.md
 	git shortlog -ne --no-merges | sed 's/\:$$/&\n/' >> CONTRIBUTORS.md
+
+# Publish
+
+onefile:
+	cat 00?-*.md chapter-*.md > $(TPPRU).md
+
+epub: onefile
+	pandoc -f markdown -t epub --highlight-style=espresso --toc --toc-depth=5 --smart -o $(TPPRU).epub $(TPPRU).md
+
+html: onefile
+	pandoc -f markdown -t html -s --highlight-style=espresso --toc --toc-depth=5 --smart -o $(TPPRU).html $(TPPRU).md
+
+# Cleanup
+
+clean:
+	rm -f $(TPPRU).md $(TPPRU).epub $(TPPRU).html CONTRIBUTORS.md
