@@ -92,3 +92,5 @@ UNIX и Windows я могу найти? Ответы на все эти вопр
 [^GHJV95]: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
     _Design Patterns: Elements of Reusable Object-Oriented Software._
     Addison-Wesley, Reading, MA, 1995.
+
+

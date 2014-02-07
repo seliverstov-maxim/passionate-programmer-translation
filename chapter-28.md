@@ -179,7 +179,7 @@ is always more welcome when you’ve given yourself time away from it.
 
 
 
-#### Act on It!
+##### Act on It!
 
 1. Make sure you sleep well tonight. Tomorrow, eat breakfast and then start 
    work at an exact time (preferably a little earlier than usual). Work intensely 
