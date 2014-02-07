@@ -1,4 +1,5 @@
 TPPRU=the-passionate-programmer-RU
+DROPBOX=$(HOME)/Dropbox/Public/tmp/tpp-ru/
 
 # issuesync: <https://github.com/mislav/issuesync>
 #
@@ -46,10 +47,13 @@ onefile:
 	cat 00?-*.md chapter-*.md > $(TPPRU).md
 
 epub: onefile
-	pandoc -f markdown -t epub --highlight-style=espresso --toc --toc-depth=5 --smart -o $(TPPRU).epub $(TPPRU).md
+	pandoc -f markdown -t epub --toc --toc-depth=5 --smart -o $(TPPRU).epub $(TPPRU).md
 
 html: onefile
 	pandoc -f markdown -t html -s --highlight-style=espresso --toc --toc-depth=5 --smart -o $(TPPRU).html $(TPPRU).md
+
+publish: epub html
+	mv $(TPPRU).epub $(TPPRU).html $(DROPBOX)
 
 # Cleanup
 
