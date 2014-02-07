@@ -1,4 +1,5 @@
 - Перевод @YaMike
+- @YaMike исправления
 
 #### 29. Скажите "Нет"
 
@@ -15,6 +16,7 @@ in impossible timelines.
 соглашаемся на выполнение нереальных работ в фантастические сроки.
 
 > *Saying "yes" to avoid disappointment is just luying*
+
 > *Соглашаясь только для избежания разочарования - это значит лгать*
 
 Saying “yes” is an addictive and destruc-
