@@ -1,4 +1,4 @@
-- Перевод @YaMike
+- @YaMike Перевод, исправления
 - @rb2 коррекция перевода, вычитка
 
 
@@ -203,24 +203,30 @@ Be courageous enough to be honest.
 
 Будьте достаточно смелы, чтобы быть честным.
 
-Act on It!
-1. Karl Brophey, a reviewer, suggests keeping a list of every commit-
-ment you make:
-• What was asked of you for a due date?
-• What did you commit to?
-• If you were overridden, record both what you thought and
-what you were told to accept.
-• Record when you delivered.
-Examine this daily. Communicate where you’ll fail as soon as you
-know. Examine this monthly—what is your hit rate? How often are
-you right on?
-
 #### Действуйте!
 
-1. Карл Брофи, обозреватель, предлагает использовать лист всех ваших
-обязательств:
-* Что требуется от вас до дед-лайна?
-* Что вы пообещали?
-* Если вы оказались перегружены, запишите все свои мысли и то, что вам было сказано.
-* Записывайте, когда вы что-то сделали.
-Ежедневно проверяйте себя по этому списку. Пытайтесь установить причину неудач. Оцените список за целый месяц - какой у вас процент успеха? Как часто вы оказывались правы?
+1.  Karl Brophey, a reviewer, suggests keeping a list of every commit-
+    ment you make:
+
+    * What was asked of you for a due date?
+    * What did you commit to?
+    * If you were overridden, record both what you thought and
+    what you were told to accept.
+    * Record when you delivered.
+
+    Examine this daily. Communicate where you’ll fail as soon as you
+    know. Examine this monthly—what is your hit rate? How often are
+    you right on?
+
+
+1.  Карл Брофи, обозреватель, предлагает использовать список всех ваших
+    обязательств:
+
+    * Что требуется от вас до конца срока?
+    * Что вы пообещали?
+    * Если вы оказались перегружены, запишите все свои мысли и то, что вам было сказано.
+    * Записывайте, когда вы что-то сделали.
+
+    Ежедневно проверяйте себя по этому списку. Пытайтесь установить причину
+    неудач. Оцените список за целый месяц - какой у вас процент успеха? Как
+    часто вы оказывались правы?
