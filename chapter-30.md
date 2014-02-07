@@ -17,8 +17,6 @@ in impossible timelines.
 
 > *Saying "yes" to avoid disappointment is just luying*
 
-> *Соглашаясь только для избежания разочарования - это значит лгать*
-
 Saying “yes” is an addictive and destruc-
 tive habit. It’s a bad habit masquerading
 as a good one. But there’s a big difference
@@ -33,6 +31,8 @@ me if it could be done by then. Or there might be another critical busi-
 ness change we’re trying to make that is dependent on the fulfillment
 system. So, armed with your assurance that you can make the date, I
 run off and commit to my customers that it will be done.
+
+> *Соглашаясь только для избежания разочарования - это значит лгать*
 
 Соглашаться на всё и всегда - это вредная и крайне разрушительная привычка,
 которая лишь маскируется под хорошую и безобидную, так как есть огромная
@@ -199,11 +199,16 @@ Be courageous enough to be honest.
 Act on It!
 1. Karl Brophey, a reviewer, suggests keeping a list of every commit-
 ment you make:
+
 • What was asked of you for a due date?
+
 • What did you commit to?
+
 • If you were overridden, record both what you thought and
 what you were told to accept.
+
 • Record when you delivered.
+
 Examine this daily. Communicate where you’ll fail as soon as you
 know. Examine this monthly—what is your hit rate? How often are
 you right on?
