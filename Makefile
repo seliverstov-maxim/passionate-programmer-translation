@@ -49,11 +49,15 @@ onefile:
 epub: onefile
 	pandoc -f markdown -t epub --toc --toc-depth=5 --smart -o $(TPPRU).epub $(TPPRU).md
 
+fb2: onefile
+	pandoc -f markdown -t fb2 --toc --toc-depth=5 --smart -o $(TPPRU).fb2 $(TPPRU).md
+
 html: onefile
 	pandoc -f markdown -t html -s --highlight-style=espresso --toc --toc-depth=5 --smart -o $(TPPRU).html $(TPPRU).md
 
-publish: epub html
-	mv $(TPPRU).epub $(TPPRU).html $(DROPBOX)
+
+publish: epub html fb2
+	mv $(TPPRU).epub $(TPPRU).fb2 $(TPPRU).html $(DROPBOX)
 
 # Cleanup
 
