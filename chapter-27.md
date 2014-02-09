@@ -338,6 +338,7 @@ and made it a mission to learn how to do it well?
 
 
 
-[^10]: For more on broken windows, see The Pragmatic Programmer [HT00].
+<!-- [^10]: For more on broken windows, see The Pragmatic Programmer [HT00]. -->
 
-[^10]: Больше информации о теории разбитых окон в издании [Программист-прагматик] (http://pragprog.com/the-pragmatic-programmer) [HT00].
+[^10]: Больше информации о теории разбитых окон в издании
+    [Программист-прагматик](http://pragprog.com/the-pragmatic-programmer) [HT00].
