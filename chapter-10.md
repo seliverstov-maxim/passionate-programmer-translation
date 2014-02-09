@@ -91,3 +91,4 @@
 2. I was in it because I couldn’t not be.
 3. [...] my overeducated, underperforming colleagues at work
 4. Or rigid processes. Or agile processes.
+

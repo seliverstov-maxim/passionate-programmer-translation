@@ -120,3 +120,5 @@ UNIX-вариант и изучить скриптовый язык.
    crippling the students who were trying to use our computer labs, and after that point,
    he was unable to shake me (nor did he try).
 5. "It’s not what you know. It’s who you know."
+
+

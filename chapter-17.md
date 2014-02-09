@@ -89,6 +89,7 @@ UNIX и Windows я могу найти? Ответы на все эти вопр
    обсуждение какой-нибудь участок кода размером от 2 до 200 строк. Разбейте его. Обсудите его
    назначение, определитесь, чем они обоснованы, и обдумайте код, которого там не хватает.
 
+
 [^GHJV95]: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
     _Design Patterns: Elements of Reusable Object-Oriented Software._
     Addison-Wesley, Reading, MA, 1995.

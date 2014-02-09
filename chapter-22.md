@@ -6,6 +6,7 @@
 
 
 #### Remember Who You Work For
+
 #### 22. Помни, на кого работаешь
 
 
@@ -192,7 +193,6 @@ right things.
 
 
 
-Act on It!
 ##### Действуйте!
 
 
@@ -203,8 +203,6 @@ how you can make a difference. After the meeting, examine how your daily work
 aligns to the goals of your team. Let them be a filter for everything you do. 
 Prioritize your work based on these goals.
 
-
-
 1. Договоритесь о встрече с непосредственным руководителем. На повестке дня
 — понять цели начальства на текущий месяц, квартал, год. Спросите,
 как вы могли бы помочь. После встречи проверьте, насколько ваша ежедневная
@@ -213,9 +211,10 @@ Prioritize your work based on these goals.
 
 
 
-[^DL99] Tom Demarco and Timothy Lister. Peopleware: Productive
+<!--
+[^DL99]: Tom Demarco and Timothy Lister. Peopleware: Productive
         Projects and Teams. Dorset House, New York, second edition, 1999.
+-->
 
-
-[^DL99] Том Демарко, Тимоти Листер. Человеческий фактор: успешные 
+[^DL99]: Том Демарко, Тимоти Листер. Человеческий фактор: успешные 
         проекты и команды. Символ-Плюс, 2009.
