@@ -48,11 +48,14 @@ onefile:
 	# cat 00?-*.md chapter-*.md resources.md > $(TPPRU).md
 
 	## Add space between concatenated files
-	rm -f $(TPPRU).md
-	for file in 001-intro 002-blagodarnosti 003-vvedenie ; do cat $$file.md >> $(TPPRU).md && echo '\n\n' >> $(TPPRU).md ; done
-	for file in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 ; do cat chapter-$$file.md >> $(TPPRU).md && echo '\n\n' >> $(TPPRU).md ; done
-	# for file in 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 ; do cat chapter-$$file.md >> $(TPPRU).md && echo '\n\n' >> $(TPPRU).md ; done
-	cat resources.md >> $(TPPRU).md
+	rm -f $(TPPRU)
+	for file in 001-intro 002-blagodarnosti 003-vvedenie ; do cat $$file.md >> $(TPPRU) && echo '\n\n' >> $(TPPRU) ; done
+	for file in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 ; do cat chapter-$$file.md >> $(TPPRU) && echo '\n\n' >> $(TPPRU) ; done
+	# for file in 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 ; do cat chapter-$$file.md >> $(TPPRU) && echo '\n\n' >> $(TPPRU) ; done
+	cat resources.md >> $(TPPRU)
+
+	## H4/H5 -> H1/2
+	cat $(TPPRU) | sed 's/^####/#/' > $(TPPRU).md
 
 epub: onefile
 	pandoc -f markdown -t epub --toc --toc-depth=5 --smart -o $(TPPRU).epub $(TPPRU).md
@@ -70,4 +73,4 @@ publish: epub html fb2
 # Cleanup
 
 clean:
-	rm -f $(TPPRU).* CONTRIBUTORS.md
+	rm -f $(TPPRU) $(TPPRU).* CONTRIBUTORS.md
