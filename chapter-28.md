@@ -134,6 +134,10 @@ When you have too much time to work, your work time reduces significantly in
 perceived value. If you have seventy hours available, each hour is less 
 precious to you than when you have forty hours available.
 
+Когда у вас слишком много времени для работы, это время значительно теряет в 
+воспринимаемой ценности. Если у вас есть семнадцать часов, каждый час менее 
+ценим чем если бы доступно было четырнадцать часов.
+
 
 
 When the value of the dollar suffers from inflation, you need more dollars to 
@@ -144,6 +148,16 @@ _I’ve only got eight hours! Go, go, go!_ With strict barriers on start and end
 times, you naturally start to organize your time more effectively. You might 
 start with a set of tasks that need to get done for the day, and you lay them 
 out in prioritized order and start nailing them one at a time.
+
+Когда ценность доллара падает из-за инфляции, вам нужно больше денег чтобы купить 
+не же самые вещи. Когда цена часа снижается, вам нужно больше часов чтобы 
+что-то сделать. Восьми-часовое горение Боба Мартина накладывает ограничение 
+на вас и дает стратегию работы с этим ограничением. Вы идете на работу и 
+думаете: _У меня всего восемь часов! Работать! Работать! Работать!_ С жесткими 
+рамками начала и конца рабочего дня, вы разумеется начинаете использовать свое 
+время более эффективно. Вы можете начать с набора задачь которые нужно 
+выполнить за день, расположить их в порадке приоритета и начать выполнать по 
+очереди.
 
 
 
@@ -156,12 +170,25 @@ and therefore extremely valuable. The eight-hour burn is a method of cramming
 early and often without having to stay up all night taking NoDoze and drinking 
 Jolt Cola.
 
+Восьми-часовое горение создает окружение которое чувствуется как те 
+ультрапродуктивные выходные которые возможно были у вас в институте, когда 
+вы зубрили учебники чтобы сдать тест по курсу который прогуляли или срочно 
+писали курсовую которая пала жертвой прокрастинации. Разница именно в этом 
+чувстве дедлайна. Когда времени совсем мало - вы становитесь невероятно 
+продуктивными, из-за нехватки времени оно становится очень ценным. Восьми-часовое 
+горение это способ назначить дедлайн пораньше и обычно без ночных посиделок в офисе, 
+с банкой Adrenaline Rush.
+
 
 
 As thought workers, even if we’re not in front of a computer or in the office, 
 we can be working. You might be working while you’re driving to dinner with 
 your spouse or while you’re watching a movie. Your work is following you around 
 nagging you.
+
+Как думают работники, мы можем работать даже если мы не за компьютером в офисе. 
+Можно работать пока едеш на обед домой или пока смотришь кино с супругой. Работа 
+неотвязно преследует тебя.
 
 
 
@@ -172,13 +199,25 @@ relax. If you work intensely every day, you’ll find that the work doesn’t
 follow you home. Not only are you deliberately stopping yourself from working 
 fter-hours, but your mind will actually _allow_ you to stop working after-hours.
 
+Моя работа обычно напоминает о себе в мыслях когда я не уделил ей достаточно 
+внимания. Возможно я упустил специфичную задачу или скопил кучу за дачь не 
+обращая на них внимание. Это те случаи из-за которых работа преследует меня 
+дома и изводит когда я пытаюсь расслабиться. Если вы интенсивно работаете каждый 
+день, вы заметите что работа не идет с вами домой. Вы не только умышленно 
+остановите себя от работы по десять часов, но и ваш ум _позволит_ перестать работать 
+лишнее время.
+
 
 
 Budget your work hours carefully. Work less, and you’ll accomplish more. Work 
 is always more welcome when you’ve given yourself time away from it.
 
+Планируйте свое рабочее время аккуратно. Работайте меньше, и вы сможете сделать 
+больше. Работа всегда более привлекательно когда вы позволяете себе отдахнуть 
+от нее.
 
 
+##### Действуй!
 ##### Act on It!
 
 1. Make sure you sleep well tonight. Tomorrow, eat breakfast and then start 
@@ -186,6 +225,11 @@ is always more welcome when you’ve given yourself time away from it.
    for four hours. Take an hour lunch. Then work for four more hours so intensely 
    that you are absolutely exhausted and can’t do any more. Go home, relax, and 
    have fun.
+
+1. Выспитесь сегодня. Завтра, позавтракайте и начните работать точно в срок(возможно 
+   чуть раньше чем обычно). Интенсивно работайте четыре часа. Уделите час обеду. 
+   После это работайте еще четыре часа так интенсивно чтобы истратить все силы 
+   и даже не думать а дальнейшей работе. Идите домой, отдохните, и повеселитесь.
 
 
 
