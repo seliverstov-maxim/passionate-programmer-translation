@@ -77,7 +77,7 @@ So, the team put together a plan of attack. They looked at their various support
 
 They knew this was going to be a touchy subject for their manager, who had to answer to his U.S.-based customers in person. There was naturally much trepidation among the team members as the meeting started. However, the team's manager was so impressed that he immediately and happily signed off on the proposal, and the team put its plan into action. Within weeks, the jet lag was over, and everyone was back on day shifts.
 
-The solidity of their plan for how to not only deal with the change in work hours but how they were going to strategically improve the performance of their team inspired great confidence in the leaders and, eventually, their customers. The team's manager used the plan when communicating the change with his customers. And, the team followed through. Within months, the team was running at a new level of efficiency. They've since gained such credibility and confidence that they have taken more and more ownership and independence over the workings of theri team.
+The solidity of their plan for how to not only deal with the change in work hours but how they were going to strategically improve the performance of their team inspired great confidence in the leaders and, eventually, their customers. The team's manager used the plan when communicating the change with his customers. And, the team followed through. Within months, the team was running at a new level of efficiency. They've since gained such credibility and confidence that they have taken more and more ownership and independence over the workings of their team.
 
 The team used its plan as a concrete to a problem. They came to their manager not with complaints but with proposed solutions. 
 
