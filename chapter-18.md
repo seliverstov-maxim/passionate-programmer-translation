@@ -1,3 +1,5 @@
+@vifsla перевод истории после главы
+
 #### Глава 18. Автоматизируйте свою работу
 
 Через всю мою карьеру проходит конфликт между, с одной стороны, желанием
@@ -114,11 +116,11 @@ Fig. 1. Сравнение продуктивности
 
 
 
-From IT Consultant to Managing Director 
-by Vik Chadha
+#####From IT Consultant to Managing Director 
+*by Vik Chadha*
 
-От ИТ-консультанта, до управляющего директора.
-Вик Чадха
+#####От ИТ-консультанта, до управляющего директора.
+*Вик Чадха*
 
 
 
@@ -405,7 +407,7 @@ Corp. В течении последних семи лет я поработал
 
 
 
-Vik Chadha is the managing director at Enterprise Corp.
+*Vik Chadha is the managing director at Enterprise Corp.*
 
-Вик Чадха, управляющий директор Enterprise Corp.
+*Вик Чадха, управляющий директор Enterprise Corp.*
 
