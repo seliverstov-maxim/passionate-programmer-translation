@@ -1,8 +1,10 @@
-Part V
-Maintaining Your Edge
+@vifsla перевод
 
-Часть V
-Сохраняй своё преимущество
+####Part V
+####Maintaining Your Edge
+
+####Часть V
+####Сохраняй своё преимущество
 
 
 Do you remember a pop star named Tiffany (no last name) from the
@@ -68,9 +70,9 @@ This part will show you how to avoid becoming a one-hit wonder.
 
 
 
-Already Obsolete
+####Already Obsolete
 
-Уже устаревший.
+####Уже устаревший.
 
 
 Many of us are drawn to the IT industry because things are always
@@ -88,8 +90,8 @@ morrow’s obsolete junk with a limited shelf life.
 с ограниченным сроком годности.
 
 
-Your shiny new skills are already obsolete.
-Твои блестящие новые знания уже устарели.
+*Your shiny new skills are already obsolete.*
+*Твои блестящие новые знания уже устарели.*
 
 
 In Leading the Revolution [Ham02], Gary
@@ -234,7 +236,7 @@ mean the difference between being blind or visionary.
 может повлиять на то, будете ли вы слепым или провидцем.
 
 
-Act on It!
+#####Act on It!
 
 1. Carve out weekly time to investigate the bleeding edge. Make
 room for at least two hours each week in order to research new
@@ -245,7 +247,7 @@ projects to understand what the differences are and what the
 new technologies enable. Put this time on your schedule. Don’t
 let yourself miss it.
 
-Действуй!
+#####Действуй!
 
 Каждую неделю выделяй время на иccледование последних технологий. Освободи как
 минимум два часа в неделю для того, чтобы изучать новые технологии и начать
