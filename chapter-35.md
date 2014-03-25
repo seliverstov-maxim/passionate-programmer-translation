@@ -11,7 +11,7 @@ programmers on a different continent and in a different time zone and
 communicate with them only via e-mail and phone.
 --!>
 
-
+Дни обычно просто ворчливого программиста закончились. Если компании хотят иметь сложности в коммуникациями с из программистами, они посадят программистов на разных континентах в разных часовых поясах и будут общаться с ними только через email и телефон.
 
 <!--
 So, the communication issue is an important one. On the list of tasks you need 
@@ -20,7 +20,7 @@ trivial. You might feel a bit like you’re back in high-school English class.
 That’s OK. You can actually pay attention this time.
 --!>
 
-
+Итак, вопрос коммуникации является важным. В списке задач тебе необходимо, чтобы остаться работником по найму, это может звучать немного надуманным, глупым или тривиальным. Ты можешь чувствовать как в школе на уроке английского языка. Это нормально. Ты можешь, в действительности, обратить внимание на этот раз.
 
 <!--
 We’ll get the most boring one over with first: grammar and spelling are 
